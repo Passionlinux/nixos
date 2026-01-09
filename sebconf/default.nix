@@ -1,0 +1,21 @@
+{
+  imports = [
+    ./alias.nix
+    ./bluetooth.nix
+    ./boot.nix
+    ./fail2ban.nix
+    ./firefox.nix
+    ./fstrim.nix
+    ./gaming.nix
+    ./imprimante.nix
+    ./maintenance.nix
+    ./minidlna.nix
+    ./nvidia.nix
+    ./ollamaCUDA61.nix
+    ./openrgb.nix
+    ./paquets.nix
+    ./pipewire.nix
+    ./plasma.nix
+    ./thunderbird.nix
+  ];
+}
